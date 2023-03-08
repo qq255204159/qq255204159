@@ -1,8 +1,8 @@
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
+<img align="right" src="https://count.getloli.com/get/@:qq255204159?theme=rule34">
 
-## 前端工程师—天平
+## 运维开发—万神酱
 
-热爱前端、热爱技术。工作经验1年。喜欢参与一些开源项目的讨论。
+热爱python、热爱技术。工作经验1年。喜欢参与一些开源项目的讨论。
 
 ### **社交主页：**
 
@@ -26,13 +26,13 @@
 
 ### 开源项目
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=mp4To4K-rust)](https://github.com/Minori-ty/mp4To4K-rust)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=qq255204159&repo=mp4To4K-rust)](https://github.com/qq255204159/mp4To4K-rust)
 <br><br><br>
 
 ### Github 活跃度
 
-[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
+[![](https://activity-graph.herokuapp.com/graph?username=qq255204159&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![qq255204159's github stats](https://github-readme-stats.vercel.app/api?username=qq255204159&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qq255204159&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=qq255204159&layout=compact&langs_count=6)
