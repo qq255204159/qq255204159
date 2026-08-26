@@ -1,34 +1,62 @@
-<img align="right" src="https://count.getloli.com/get/@:qq255204159?theme=rule34">
+<div align="center">
 
-## 运维开发—星空酱
+<img src="https://count.getloli.com/get/@:qq255204159?theme=rule34" alt="访客计数">
 
-热爱网络、热爱技术。工作经验1年。喜欢参与一些开源、python项目的讨论。
+# 你好，我是万神的星空 👋
 
-### **社交主页：**
+**运维开发工程师** · Linux / Docker / Python / Vue
 
- <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+热爱网络与开源技术，业余喜欢折腾自动化运维和有趣的 Bot 插件
 
+</div>
 
--   <a href="https://space.bilibili.com/25070599?spm_id_from=333.1007.0.0"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：哔哩哔哩优秀探索家，发表了多篇技术文章，1万阅读，ps：以上纯属虚构。
+---
 
-### **技术栈:**
+<img align="right" alt="GIF" src="./images/code.gif" width="400" />
 
-<a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
-<a href="https://reactjs.org/"><code><img height="20" src="./images/react.svg"></code></a>
-<a href="https://nextjs.org/"><code><img height="20" src="./images/next.png"></code></a>
-<a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/typescript.png"></code></a>
-<a href="https://webpack.js.org/"><code><img height="20" src="./images/webpack.svg"></code></a>
-<a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
+### 关于我
 
-### 开源项目
+- 🔧 **运维开发**：日常与 Linux、Docker、Nginx 打交道，信奉"能自动化的绝不手动"
+- 🐍 **Python 玩家**：业余参与开源社区讨论，NoneBot 插件爱好者
+- 🌐 **网络折腾党**：消息机器人、代理服务都有研究
+- 📚 **正在学习**：Kubernetes / CI/CD / 前端全栈
 
-暂无
-<br><br><br>
+### 🛠️ 技术栈
 
-### Github 活跃度
+**运维方向**
 
-[![](https://activity-graph.herokuapp.com/graph?username=qq255204159&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![qq255204159's github stats](https://github-readme-stats.vercel.app/api?username=qq255204159&show_icons=true&theme=vue)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qq255204159&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=qq255204159&layout=compact&langs_count=6)
+**开发方向**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### 📊 GitHub 统计
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=qq255204159&show_icons=true&theme=vue" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qq255204159&layout=compact&theme=vue" alt="Top Langs" />
+</p>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=qq255204159&theme=vue" alt="GitHub Activity Graph" />
+
+### 📫 联系我
+
+<a href="https://space.bilibili.com/25070599"><img src="./images/bilibili.png" height="28" alt="哔哩哔哩" /></a>&nbsp;&nbsp;**哔哩哔哩**：分享技术折腾记录
+
+**QQ**：`1106329253`（备注来意，欢迎交流）
+
+---
+
+<div align="center">
+  <sub>⭐ 主页持续完善中 · <a href="https://github.com/qq255204159">github.com/qq255204159</a></sub>
+</div>
