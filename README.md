@@ -69,8 +69,7 @@
 ### 📊 GitHub 统计
 
 <p align="center">
-  <img height="180" src="https://stats.justsong.cn/api/github?username=qq255204159&theme=dark&lang=zh-CN" alt="GitHub 统计" />
-  <img height="180" src="https://ghchart.rshah.org/2b5876/qq255204159" alt="贡献热力图" />
+  <img height="190" src="https://stats.justsong.cn/api/github?username=qq255204159&theme=dark&lang=zh-CN" alt="GitHub 统计" />
 </p>
 
 <p align="center">
