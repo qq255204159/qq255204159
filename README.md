@@ -5,7 +5,7 @@
   <img src="https://image.thum.io/get/width/1200/crop/675/noanimate/https://lygjk.vip" alt="第三星舰 · lygjk.vip" width="100%" />
 </a>
 
-<img src="https://count.getloli.com/get/@:qq255204159?theme=rule34" alt="访客计数">
+<img src="https://komarev.com/ghpvc/?username=qq255204159&color=4FC3F7&style=for-the-badge" alt="舰桥访客" />
 
 # 你好，我是见星阁主 👋
 
@@ -70,6 +70,7 @@
 
 <p align="center">
   <img height="180" src="https://stats.justsong.cn/api/github?username=qq255204159&theme=dark&lang=zh-CN" alt="GitHub 统计" />
+  <img height="180" src="https://ghchart.rshah.org/2b5876/qq255204159" alt="贡献热力图" />
 </p>
 
 <p align="center">
