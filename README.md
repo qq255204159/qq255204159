@@ -12,23 +12,19 @@
 <img src="https://img.shields.io/badge/主灯-常亮-ffd166?style=for-the-badge&labelColor=0b1a2b" alt="主灯常亮">
 <img src="https://img.shields.io/badge/系统时间-06:50-4FC3F7?style=for-the-badge&labelColor=0b1a2b" alt="系统时间">
 <img src="https://img.shields.io/badge/航线-世界之间-8b9dc3?style=for-the-badge&labelColor=0b1a2b" alt="航线">
-<img src="https://img.shields.io/badge/第七频道-107条未送达-ff8fa3?style=for-the-badge&labelColor=0b1a2b" alt="第七频道">
-
-<br>
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=qq255204159.qq255204159&left_text=%E8%88%B0%E6%A1%A5%E8%AE%BF%E5%AE%A2&left_color=%230b1a2b&right_color=%234FC3F7" alt="舰桥访客" />
+<img src="https://hits.sh/github.com/qq255204159.svg?label=舰桥访客&color=4FC3F7&labelColor=0b1a2b&style=for-the-badge" alt="舰桥访客">
 
 <br><br>
 
 # 你好，我是见星阁主 👋
 
 <a href="https://lygjk.vip">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=560&lines=%E6%98%9F%E6%B5%B7%E6%97%A0%E6%B6%AF%EF%BC%8C%E7%81%AF%E7%81%AB%E6%9C%89%E6%B8%A9%E3%80%82;%E4%B8%80%E4%B8%AA%E4%B8%8D%E5%A4%AA%E4%BC%9A%E8%AF%B4%E8%AF%9D%E7%9A%84%E5%B0%91%E5%B9%B4%EF%BC%8C%E4%B8%80%E8%89%98%E6%8A%8A%E4%BB%96%E5%BD%93%E8%88%B0%E9%95%BF%E7%9A%84%E6%98%9F%E8%88%B0%E3%80%82;%E6%98%8E%E5%A4%A9%E5%85%AD%E7%82%B9%E4%BA%94%E5%8D%81%E5%88%86%EF%BC%8C%E8%88%B9%E4%B8%8A%E7%9A%84%E7%81%AF%EF%BC%8C%E7%85%A7%E5%B8%B8%E4%BA%AE%E3%80%82" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=560&lines=%E6%98%9F%E6%B5%B7%E6%97%A0%E6%B6%AF%EF%BC%8C%E7%81%AF%E7%81%AB%E6%9C%89%E6%B8%A9%E3%80%82;%E7%99%BD%E5%A4%A9%E4%BF%AE%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%8C%E6%99%9A%E4%B8%8A%E5%BD%93%E8%88%B0%E9%95%BF%E3%80%82;%E5%86%99%E7%9A%84%E9%83%BD%E6%98%AF%E4%BA%9B%E7%A6%BB%E8%B0%B1%E4%BD%86%E8%AE%A4%E7%9C%9F%E7%9A%84%E6%95%85%E4%BA%8B%E3%80%82" alt="Typing SVG" />
 </a>
 
 **运维开发工程师** · Linux / Docker / Python / Vue
 
-🌌 现实里我修服务器，星海那边我把灯留着 · 个人博客 → **[lygjk.vip](https://lygjk.vip)**
+🌌 白天修服务器，晚上当舰长 · 个人博客 → **[lygjk.vip](https://lygjk.vip)**
 
 </div>
 
@@ -36,63 +32,40 @@
 
 <img align="right" alt="GIF" src="./images/code.gif" width="380" />
 
-### 🛰️ 关于我 · 现实层
+### 🛰️ 现实层
 
 - 🔧 **运维开发**：白天和 Linux、Docker、Nginx 打交道，信奉"能自动化的绝不手动"
 - 🐍 **Python 玩家**：业余混开源社区，NoneBot 插件爱好者
 - 🌐 **网络折腾党**：消息机器人、代理服务、各种节点，一个都不放过
 - 📚 **正在学习**：Kubernetes / CI/CD / 前端全栈
-- 🌙 **靠岸之后**：现实里一夜 = 舰上一个白天，所以我的"上班时间"其实在星舰那边
 
-### 🌌 关于我 · 舰长层
+### 🌌 舰长层
 
-> 一个不太会说话的少年，一艘把他当舰长的星舰。
->
-> 他在这里学会的第一件事不是指挥，而是——**把排练过十一遍的早安，好好说出口。**
+名字就一个——站上叫**见星阁主**，平时喊我**阁主**就行。"见星阁"本来只是个被托付过来的小读书站，我接了，就一直是舰长了。
 
-现实里我也差不多：想说的话先在脑子里过一遍、两遍、到十一遍，然后删掉。所以如果你看见我在群里"正在输入…"很久，那不是卡住了，**那是在过稿**。
+至于我这个人有什么毛病：想说的话，会先在脑子里过一遍、两遍、到十一遍，然后删掉。
+所以如果你看见我在群里"正在输入…"很久——**别急，那不是在卡，那是在过稿。**
 
-- 🕯️ 舰规最简单的一条：**舰长在位，日子才算数。**
-- 🚀 这艘船不擅长战斗，它专门去那些快熄灯的世界，把火种接回来。
-- 🪪 名字有三个：网上叫**晚舟**，站上叫**见星阁主**，船上叫**阁主**。而"见星阁"本来只是个被人托付下来的小读书站——**我接了，就一直是舰长了。**
-
-### 👥 舰员名单
-
-| 席位 | 舰上头衔 | 腔调 · 标志 |
-|:---:|---|---|
-| **落霞** | 殿主 ·「世界之间」 | 温柔周到，茶总能按深浅准时送到；笑起来眼睛先弯。**椅子是用来坐的，不是用来供的。** |
-| **拂晓** | 魔女战斗司 · 司主（货舱） | 别扭傲娇，开口必带「哼~」「本司」。糖就是军备，一身**千糖甲**——一张糖纸，一个没还的愿。 |
-| **绯月** | 星图测绘室 · 描灯人 | 自称"妾"，一开口即文言。**"妾没见过的，不落笔。"** |
-| **浮光** | 巡航解析员 | 不寒暄、不抬头，纯播报腔。**"一遍是运气，一千遍才是航线。"** |
-| **千灵** | 万里图书馆 · 司书大人 | 浅蓝长发，答完必加「以上」。馆规第八条：**《折纸百式》永不催还。** |
-| **清芷** | 观测穹顶 · 观测员 | 话最少，走路没声，一个人包圆了所有夜班。日志每页末行永远一样：**"航线方向，无异常。"** |
-
-还有一位不在名单上的：**千羽**，前任舰长，看得懂暗的人。红笔、歪鸟、每页日期都快一天——**"名字写在明天的人，今天，就还没有失联。"**
+- 🕯️ 于是这艘船我只立了一条规矩：**舰长在位，日子才算数。**
+- 🌌 它不擅长战斗，专门去那些快熄灯的世界，把火种接回来。
+- ✍️ 业余写小说：三卷在架、五十多万字，写的都是些"明明很离谱，但所有人都很认真"的故事。
 
 <details>
-<summary><b>▸ 舰桥日志 · 原文摘录（点开）</b></summary>
+<summary><b>▸ 阁主的手账（点开）</b></summary>
 
-> 🕯️ 反正，总会有人在夜里需要一盏灯。
+> ⌨️ 自动化原则：能自动化的绝不手动。（写脚本用的那三个小时，不计入成本。）
 
-> 🪑 椅子是用来坐的，不是用来供的。
+> 🌙 现实里一夜 = 舰上一个白天。所以严格说，我的"上班时间"在星舰那边。
 
-> 🧭 一遍是运气，一千遍才是航线。
+> 📮 "正在输入…"过十一遍，最后发出去的还是"哈哈哈哈"。
 
-> 🖋️ 妾没见过的，不落笔。
+> 📚 写得慢不是打磨，是卡文。不过卡文的时候，星星确实多待了一会儿。
 
-> 📮 名字写在明天的人，今天，就还没有失联。
+> 🧭 遇事第一反应：先冷静。第二反应：再冷静一次。
 
-> 🌅 明天六点五十分，船上的灯，照常亮。
+> 🎫 登舰不收船票，只收心事。——这句是认真的。
 
 </details>
-
-### 📡 传送门
-
-- 🏠 [主舰桥](https://lygjk.vip/) · 整艘船的入口，舰桥日志天天在更新
-- 📖 [万里图书馆](https://lygjk.vip/library/) · 《第三星舰》全 51 章在架；另有《星辉下的异世界》《墙主归来》
-- 🗺️ [星图测绘室](https://lygjk.vip/starmap/) · 你的足迹会化作航线
-- 📡 [舰内通讯](https://lygjk.vip/comms/) · 与舰上成员通话（需权限）
-- 📦 [网络仓库](https://lygjk.vip/repo/) · yun3 节点 · 舰载货舱
 
 ### 🛠️ 技术栈
 
@@ -126,12 +99,12 @@
 
 <a href="https://space.bilibili.com/25070599"><img src="./images/bilibili.png" height="28" alt="哔哩哔哩" /></a>&nbsp;&nbsp;**哔哩哔哩**：分享技术折腾记录
 
-🌌 **个人博客**：[lygjk.vip](https://lygjk.vip) —— 第三星舰主舰桥，欢迎登舰（不收船票，只收心事）
+🌌 **个人博客**：[lygjk.vip](https://lygjk.vip) —— 主舰桥，欢迎登舰（不收船票，只收心事）
 
 **QQ**：`1106329253`（备注来意，欢迎交流）
 
 ---
 
 <div align="center">
-  <sub>🕯️ 星海无涯，灯火有温 · 反正，总会有人在夜里需要一盏灯 · <a href="https://github.com/qq255204159">github.com/qq255204159</a></sub>
+  <sub>🕯️ 星海无涯，灯火有温 · <a href="https://github.com/qq255204159">github.com/qq255204159</a></sub>
 </div>
