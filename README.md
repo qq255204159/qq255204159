@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/主灯-常亮-ffd166?style=for-the-badge&labelColor=0b1a2b" alt="主灯常亮">
 <img src="https://img.shields.io/badge/系统时间-06:50-4FC3F7?style=for-the-badge&labelColor=0b1a2b" alt="系统时间">
 <img src="https://img.shields.io/badge/航线-世界之间-8b9dc3?style=for-the-badge&labelColor=0b1a2b" alt="航线">
-<img src="https://hits.sh/github.com/qq255204159.svg?label=舰桥访客&color=4FC3F7&labelColor=0b1a2b&style=for-the-badge" alt="舰桥访客">
+<img src="https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fvisitor-badge.laobi.icu%2Fbadge%3Fpage_id%3Dqq255204159.qq255204159&query=%2F%2F*%5Blocal-name()%3D'text'%5D%5B3%5D&label=%E8%88%B0%E6%A1%A5%E8%AE%BF%E5%AE%A2&style=for-the-badge&labelColor=0b1a2b&color=4FC3F7" alt="舰桥访客">
 
 <br><br>
 
