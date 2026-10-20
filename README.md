@@ -16,7 +16,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=qq255204159&color=4FC3F7&style=for-the-badge" alt="舰桥访客" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=qq255204159.qq255204159&left_text=%E8%88%B0%E6%A1%A5%E8%AE%BF%E5%AE%A2&left_color=%230b1a2b&right_color=%234FC3F7" alt="舰桥访客" />
 
 <br><br>
 
